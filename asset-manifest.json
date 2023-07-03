@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6e5eb4e7.css",
-    "main.js": "/static/js/main.ac3b6857.js",
-    "static/js/787.c45cc61a.chunk.js": "/static/js/787.c45cc61a.chunk.js",
-    "index.html": "/index.html",
-    "main.6e5eb4e7.css.map": "/static/css/main.6e5eb4e7.css.map",
-    "main.ac3b6857.js.map": "/static/js/main.ac3b6857.js.map",
-    "787.c45cc61a.chunk.js.map": "/static/js/787.c45cc61a.chunk.js.map"
+    "main.css": "/yong1112.github.io-contacts-app/static/css/main.6e5eb4e7.css",
+    "main.js": "/yong1112.github.io-contacts-app/static/js/main.51164fb4.js",
+    "static/js/787.c45cc61a.chunk.js": "/yong1112.github.io-contacts-app/static/js/787.c45cc61a.chunk.js",
+    "index.html": "/yong1112.github.io-contacts-app/index.html",
+    "main.6e5eb4e7.css.map": "/yong1112.github.io-contacts-app/static/css/main.6e5eb4e7.css.map",
+    "main.51164fb4.js.map": "/yong1112.github.io-contacts-app/static/js/main.51164fb4.js.map",
+    "787.c45cc61a.chunk.js.map": "/yong1112.github.io-contacts-app/static/js/787.c45cc61a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e5eb4e7.css",
-    "static/js/main.ac3b6857.js"
+    "static/js/main.51164fb4.js"
   ]
 }
